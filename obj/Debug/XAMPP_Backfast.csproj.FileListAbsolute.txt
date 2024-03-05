@@ -1,0 +1,10 @@
+C:\Users\royal\Desktop\Developpement\Wrapped Chicken\Wrapped Chicken\obj\Debug\XAMPP_Backfast.csproj.AssemblyReference.cache
+C:\Users\royal\Desktop\Developpement\Wrapped Chicken\Wrapped Chicken\obj\Debug\XAMPP_Backfast.XAMPP_Backfast.resources
+C:\Users\royal\Desktop\Developpement\Wrapped Chicken\Wrapped Chicken\obj\Debug\XAMPP_Backfast.csproj.GenerateResource.cache
+C:\Users\royal\Desktop\Developpement\Wrapped Chicken\Wrapped Chicken\obj\Debug\XAMPP_Backfast.csproj.CoreCompileInputs.cache
+C:\Users\royal\Desktop\Developpement\Wrapped Chicken\Wrapped Chicken\bin\Debug\XAMPP Backfast.exe.config
+C:\Users\royal\Desktop\Developpement\Wrapped Chicken\Wrapped Chicken\bin\Debug\XAMPP Backfast.exe
+C:\Users\royal\Desktop\Developpement\Wrapped Chicken\Wrapped Chicken\bin\Debug\XAMPP Backfast.pdb
+C:\Users\royal\Desktop\Developpement\Wrapped Chicken\Wrapped Chicken\obj\Debug\XAMPP_Backfast.Properties.Resources.resources
+C:\Users\royal\Desktop\Developpement\Wrapped Chicken\Wrapped Chicken\obj\Debug\XAMPP Backfast.exe
+C:\Users\royal\Desktop\Developpement\Wrapped Chicken\Wrapped Chicken\obj\Debug\XAMPP Backfast.pdb
